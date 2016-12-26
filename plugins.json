@@ -354,6 +354,10 @@
 			"desc": "Add welcome messages via titles, tablist headers/footers, etc.",
 			"jarName": "TitleWelcomeMessage.jar",
 			"configName": "TitleWelcomeMessage"
-		}
+		}       "name": "Per-World Inventory",
+		        " Separates your inventory from worlds and gamemode!",
+		        "jarName": "PerWorldInventory.jar",
+		        "configName": "PerWolrdInventory",
+		      
 	]
 }
